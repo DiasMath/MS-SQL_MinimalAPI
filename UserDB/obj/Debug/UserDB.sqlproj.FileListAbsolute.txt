@@ -1,0 +1,10 @@
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\bin\Debug\UserDB.dll
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\bin\Debug\UserDB.pdb
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\obj\Debug\Model.xml
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\obj\Debug\refactor.xml
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\obj\Debug\postdeploy.sql
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\obj\Debug\predeploy.sql
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\obj\Debug\UserDB.dll
+C:\Users\MATHEUS\OneDrive\Área de Trabalho\Projetos\MS-SQL_MinimalAPI\MS-SQL_MinimalAPIApp\UserDB\obj\Debug\UserDB.pdb
